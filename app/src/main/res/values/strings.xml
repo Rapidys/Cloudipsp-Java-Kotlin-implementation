@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="e_google_pay_unsupported">GooglePay is not supported</string>
+    <string name="e_google_pay_canceled">GooglePay has been canceled</string>
+</resources>
